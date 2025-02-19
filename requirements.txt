@@ -6,4 +6,3 @@ tensorboard
 matplotlib
 streamlit
 scikeras==0.12.0
-## I used the above versions because the project was working smoothly on these vesrsions.
